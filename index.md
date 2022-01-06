@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+Hello, i am Andrey Ezhov.
 
-You can use the [editor on GitHub](https://github.com/TedStruR/its-Me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Who am i?
+*I am 20 years old, I live in Moscow, I dream of visiting Baikal
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*I am the champion of Moscow and Russia in WorldSkills2021 in the competence "Electronics"
 
-### Markdown
+*Expert of WorldSkills competence "Electronics"
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*I'm a college teacher of communication 54
 
-```markdown
-Syntax highlighted code block
+*I am a student of the University of Communications "MTUCI"
 
-# Header 1
-## Header 2
-### Header 3
+*I love animals, especially hedgehogs
 
-- Bulleted
-- List
+*I plan to move to Finland in the future
 
-1. Numbered
-2. List
+*I teach programming, conduct courses on microcontrollers. I am fond of PCB layout in Altium Designer
 
-**Bold** and _Italic_ and `Code` text
+*Cheerful, positive, realistic, I like to communicate with people
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TedStruR/its-Me/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
